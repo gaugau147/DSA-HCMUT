@@ -1,0 +1,19 @@
+The list contains 8: no
+The list contains 719: no
+The element at position 1 is 974
+[943 974 932 ]
+
+Last occurrence of 533 is at -1
+The list contains 869: no
+The element at position 1 is 238
+First occurrence of 679 is at -1
+The list contains 346: no
+The element at position 0 is 849
+First occurrence of 48 is at -1
+Last occurrence of 172 is at -1
+The list contains 594: no
+The element at position 5 is 310
+First occurrence of 944 is at -1
+The element at position 14 is 849
+Last occurrence of 625 is at -1
+First occurrence of 433 is at -1
